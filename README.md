@@ -1,7 +1,12 @@
 # CodeClause_Web-Development
 # Task 2 - Timer and Stopwatch
 
-Timer and stopwatch system, designed as a part of internship under TASK 2 of Web Development and Designing ,is a dynamic website which can be used to perform as a Timer and also a stopwatch 
+Stopwatch project, designed as a part of internship under TASK 1 of Web Development and Designing ,is a dynamic website which can be used to perform operations like:
+
+* Start
+* Stop
+* Reset
+
 
 
 #  Tools used
